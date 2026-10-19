@@ -4,7 +4,8 @@ A risk-based test strategy and coverage plan for a claims processing platform th
 
 | File | Contents |
 |---|---|
-| [Risk-Based Test Strategy - Claims Platform.docx](Risk-Based%20Test%20Strategy%20-%20Claims%20Platform.docx) | The strategy document (9 pages) |
+| [Risk-Based Test Strategy - Claims Platform.pdf](Risk-Based%20Test%20Strategy%20-%20Claims%20Platform.pdf) | The strategy document (9 pages), readable in the browser |
+| [Risk-Based Test Strategy - Claims Platform.docx](Risk-Based%20Test%20Strategy%20-%20Claims%20Platform.docx) | The same document in Word format |
 | [Problem Statement.pdf](Problem%20Statement.pdf) | The original problem statement |
 
 ## The problem
